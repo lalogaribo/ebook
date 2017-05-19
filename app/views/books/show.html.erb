@@ -1,5 +1,5 @@
 <p id="notice"><%= notice %></p>
-
+<div class ="container">
 <div class ="row">
   <div class ="col-md-6">
     <%= image_tag "rails.jpg", class: 'img-responsive' %>
@@ -10,6 +10,6 @@
     <p class = "text-center"><strong>$ <%= @book.price/100 %></p></strong>
   </div>
 </div>
-
+</div>
 <%= link_to 'Edit', edit_book_path(@book) %> |
 <%= link_to 'Back', books_path %>
