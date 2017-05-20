@@ -6,8 +6,15 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+- 2.4
+* Rails Version
+- 5.0.1
 
-* System dependencies
+* Installed gems
+1. Devise
+2. CanCan
+3. Simple_form
+4. PaperClip
 
 * Configuration
 
