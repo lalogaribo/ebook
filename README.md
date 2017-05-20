@@ -6,9 +6,9 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-- 2.4
+   2.4
 * Rails Version
-- 5.0.1
+   5.0.1
 
 * Installed gems
 1. Devise
